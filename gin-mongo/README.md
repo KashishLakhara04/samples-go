@@ -36,7 +36,7 @@ keploy
 
 ### Setup URL shortener
 ```bash
-git clone https://github.com/keploy/example-url-shortener && cd gin-mongo
+git clone https://github.com/keploy/samples-go && cd gin-mongo
 
 go mod download
 ```
